@@ -1,0 +1,7 @@
+{
+  "name": "ProjetoCidaData",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
